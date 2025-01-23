@@ -15,8 +15,6 @@ What is Don't Escape?
 - **BLOCK THAT SH&%**: Choose what to secure based on the items you've gathered.
 - **Prepare for NIGHT**: Once you're ready, confirm if you're prepared for the night and see the results of your actions.
 
-Each action is selected by typing a number from the available choices. It’s simple and direct, making it easy to dive into the survival experience.
-
 **Known Bugs?/Limitations?**  
 - **Text-Based Transition**: As I said this used to be a Point and Click Flash Game that i turned into Text Based so most of the cooler mechanics and cool artstyle orignally from the game is all gone but still a
   unique experience I must say.

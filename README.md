@@ -21,6 +21,7 @@ Each action is selected by typing a number from the available choices. It’s si
 - **Text-Based Transition**: As I said this used to be a Point and Click Flash Game that i turned into Text Based so most of the cooler mechanics and cool artstyle orignally from the game is all gone but still a
   unique experience I must say.
 - **Inventory and Action Limitation**: You might feel limited by the text based system for inventory management and actions. There's no drag-and-drop or visual feedback like in the original game.
+- **Who left that there?**: SO I kinda left in a little bit of code (something that has to do with Tinderbox) but I didn't know where else to put them because in the original game you needed it for the fireplace to start cooking the Potion with the mushroom and meat.
 
 **Final Thoughts**
 -Hope you enjoy the game whoever comes across this (most def my prof) but yeah Happy Trails!!
